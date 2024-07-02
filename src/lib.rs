@@ -3,6 +3,7 @@ mod pow;
 mod next_permutation;
 mod generate_parenthesis;
 mod merge_two_lists;
+mod climb_stairs;
 pub struct Solution;
 
 

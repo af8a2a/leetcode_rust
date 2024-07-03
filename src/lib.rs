@@ -7,6 +7,7 @@ mod generate_parenthesis;
 mod merge_two_lists;
 mod climb_stairs;
 mod inorder_traversal;
+mod sum_of_the_digits_of_harshad_number;
 pub struct Solution;
 
 

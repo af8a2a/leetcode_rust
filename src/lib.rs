@@ -12,6 +12,7 @@ mod add_two_numbers;
 mod is_valid;
 mod search_range;
 mod max_sub_array;
+mod can_jump;
 pub struct Solution;
 
 

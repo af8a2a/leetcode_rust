@@ -11,7 +11,7 @@ mod sum_of_the_digits_of_harshad_number;
 mod add_two_numbers;
 mod is_valid;
 mod search_range;
-
+mod max_sub_array;
 pub struct Solution;
 
 

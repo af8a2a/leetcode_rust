@@ -13,6 +13,7 @@ mod is_valid;
 mod search_range;
 mod max_sub_array;
 mod can_jump;
+mod my_atoi;
 pub struct Solution;
 
 

@@ -16,6 +16,7 @@ mod can_jump;
 mod my_atoi;
 mod add_binary;
 mod permute;
+mod coin_change;
 pub struct Solution;
 
 

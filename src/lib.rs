@@ -17,6 +17,7 @@ mod my_atoi;
 mod add_binary;
 mod permute;
 mod coin_change;
+mod pivot_index;
 pub struct Solution;
 
 

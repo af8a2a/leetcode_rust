@@ -18,6 +18,7 @@ mod add_binary;
 mod permute;
 mod coin_change;
 mod pivot_index;
+mod combination_sum;
 pub struct Solution;
 
 

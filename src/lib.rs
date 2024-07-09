@@ -20,6 +20,7 @@ mod coin_change;
 mod pivot_index;
 mod combination_sum;
 mod first_missing_positive;
+mod trap;
 pub struct Solution;
 
 

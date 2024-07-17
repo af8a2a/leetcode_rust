@@ -21,6 +21,7 @@ mod pivot_index;
 mod combination_sum;
 mod first_missing_positive;
 mod trap;
+mod is_symmetric;
 pub struct Solution;
 
 

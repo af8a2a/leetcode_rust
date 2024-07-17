@@ -23,6 +23,7 @@ mod first_missing_positive;
 mod trap;
 mod is_symmetric;
 mod flatten;
+mod max_profit;
 pub struct Solution;
 
 

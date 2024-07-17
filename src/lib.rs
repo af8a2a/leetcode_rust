@@ -22,6 +22,7 @@ mod combination_sum;
 mod first_missing_positive;
 mod trap;
 mod is_symmetric;
+mod flatten;
 pub struct Solution;
 
 

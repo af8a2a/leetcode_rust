@@ -24,6 +24,7 @@ mod trap;
 mod is_symmetric;
 mod flatten;
 mod max_profit;
+mod merge;
 pub struct Solution;
 
 

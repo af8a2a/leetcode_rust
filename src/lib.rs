@@ -25,6 +25,7 @@ mod is_symmetric;
 mod flatten;
 mod max_profit;
 mod merge;
+mod subarray_sum;
 pub struct Solution;
 
 

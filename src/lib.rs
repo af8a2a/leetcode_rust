@@ -26,6 +26,7 @@ mod flatten;
 mod max_profit;
 mod merge;
 mod subarray_sum;
+mod remove_nth_from_end;
 pub struct Solution;
 
 

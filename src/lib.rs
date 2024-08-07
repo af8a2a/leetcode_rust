@@ -28,6 +28,7 @@ mod merge;
 mod subarray_sum;
 mod remove_nth_from_end;
 mod rotate;
+mod wordbreak;
 pub struct Solution;
 
 

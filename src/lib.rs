@@ -29,6 +29,7 @@ mod subarray_sum;
 mod remove_nth_from_end;
 mod rotate;
 mod wordbreak;
+mod string_score;
 pub struct Solution;
 
 

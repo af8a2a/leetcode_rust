@@ -30,6 +30,7 @@ mod remove_nth_from_end;
 mod rotate;
 mod wordbreak;
 mod string_score;
+mod group_anagrams;
 pub struct Solution;
 
 

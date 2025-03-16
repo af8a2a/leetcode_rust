@@ -1,5 +1,4 @@
 use std::{cell::RefCell, rc::Rc};
-
 mod two_sum;
 mod pow;
 mod next_permutation;
@@ -31,6 +30,7 @@ mod rotate;
 mod wordbreak;
 mod string_score;
 mod group_anagrams;
+mod longest_substring_without_duplicate_characters;
 pub struct Solution;
 
 
